@@ -1,0 +1,13 @@
+{
+  "name": "deluge-events",
+  "version": "0.0.0",
+  "description": "Capture events from deluge execute plugin",
+  "repository": "https://github.com/jdcrensh/deluge-events",
+  "author": "Jon Crenshaw <jdcrensh@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "sqlite3": "^4.0.6"
+  }
+}
