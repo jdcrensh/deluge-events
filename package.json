@@ -1,6 +1,6 @@
 {
   "name": "deluge-events",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Capture events from deluge execute plugin",
   "repository": "https://github.com/jdcrensh/deluge-events",
   "author": "Jon Crenshaw <jdcrensh@gmail.com>",
