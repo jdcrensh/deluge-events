@@ -5,7 +5,11 @@
   "repository": "https://github.com/jdcrensh/deluge-events",
   "author": "Jon Crenshaw <jdcrensh@gmail.com>",
   "license": "MIT",
-  "devDependencies": {},
+  "bin": {
+    "deluge-events-added": "./bin/added.js",
+    "deluge-events-completed": "./bin/completed.js",
+    "deluge-events-removed": "./bin/removed.js"
+  },
   "dependencies": {
     "common-tags": "^1.8.0",
     "sqlite3": "^4.0.6"
